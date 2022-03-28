@@ -2,7 +2,7 @@
 Predictive uncertainty is important for humans to trust machine learning systems.
 This repo has collected papers to help you understand uncertainty in Deep Learning with a minimum of effort.
 
-This repo contains research papers on predictive uncertainty, quantification methods, application, and user studies.
+This repo contains research papers on predictive uncertainty, quantification methods, applications, and user studies.
 
 I have collected papers from the following international conferences: ICML, NeurIPS, AAAI, ICLR, IUI, CHI
 
@@ -53,11 +53,11 @@ Keywords:
 ### Embedding
 * Postels, Janis, et al. "The hidden uncertainty in a neural networks activations." arXiv preprint arXiv:2012.03082 (2020).[[Link]](https://arxiv.org/pdf/2012.03082)
 
-# Application
-### Medical semantic segmentation
+# Applications
+### Healtcare semantic segmentation
 * Nair, Tanya, et al. "Exploring uncertainty measures in deep networks for multiple sclerosis lesion detection and segmentation." Medical image analysis 59 (2020): 101557. [[Link]](https://www.sciencedirect.com/science/article/pii/S1361841519300994?casa_token=xkmmdBQmXdgAAAAA:rDYDtqJ3WI7EXwAFXZWsVezsmi7vll8nYTVnw3pGNs2aEoUFIKuBjCVi5D7evvSaNdMxaLMDuQ)
 
-### Automated driving semantic segmentation
+### Self-driving cars semantic segmentation
 * Kendall, Alex, Vijay Badrinarayanan, and Roberto Cipolla. "Bayesian segnet: Model uncertainty in deep convolutional encoder-decoder architectures for scene understanding." arXiv preprint arXiv:1511.02680 (2015).[[Link]](https://arxiv.org/pdf/1511.02680.pdf?source=post_page---------------------------)
 
 ### Active learning (Annotation)
