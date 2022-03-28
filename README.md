@@ -1,11 +1,10 @@
 # Predictive Uncertainty in Deep Learning
 Predictive uncertainty is important for humans to trust machine learning systems.
-This repository contains research papers on predictive uncertainty, quantification methods, applied topics, and user studies.
+This repo has collected papers to help you understand uncertainty in Deep Learning with a minimum of effort.
 
-As a highway of knowledge, this repository has collected papers to help you understand uncertainty in Deep Learning with a minimum of effort.
+This repo contains research papers on predictive uncertainty, quantification methods, application, and user studies.
 
 I have collected papers from the following international conferences: ICML, NeurIPS, AAAI, ICLR, IUI, CHI
-
 
 Keywords: 
 `Data(Aleatoric) Uncertainty`, `Model(Epistemic) Uncertainty`, `Bayesain Neural Networks`, `Deep Ensembles`, `Uncertainty Visualization`, `Human-centered computing`, `Human-AI-Interaction`, `interpretability`, `XAI`
