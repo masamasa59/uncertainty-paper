@@ -1,19 +1,21 @@
-# Predictive Uncertainty
-Prediction uncertainty is important for humans to trust machine learning systems.
-This repository contains research papers on prediction uncertainty, quantification methods, applied topics, and user studies.
+# Predictive Uncertainty in Deep Learning
+Predictive uncertainty is important for humans to trust machine learning systems.
+This repository contains research papers on predictive uncertainty, quantification methods, applied topics, and user studies.
 
-As a highway of knowledge, this repository has collected important papers to help you understand uncertainty with a minimum of effort.
+As a highway of knowledge, this repository has collected papers to help you understand uncertainty in Deep Learning with a minimum of effort.
 
-I have collected papers from the following international conferences: ICML, NeurIPS, AAAI, IJCAI, ICLR, IUI, CHI
+I have collected papers from the following international conferences: ICML, NeurIPS, AAAI, ICLR, IUI, CHI
 
 
 Keywords: 
-`Data(Alealistic) Uncertainty`, `Model(Epistimic) Uncertainty`, `Bayesain Neural Networks`, `Deep Ensembles`, `Uncertainty visualization`, `Human-centered computing`, `Human-AI-Interaction`, `interpretability`, `XAI`
+`Data(Aleatoric) Uncertainty`, `Model(Epistemic) Uncertainty`, `Bayesain Neural Networks`, `Deep Ensembles`, `Uncertainty Visualization`, `Human-centered computing`, `Human-AI-Interaction`, `interpretability`, `XAI`
 
 
 # Survey
 * Gawlikowski, Jakob, et al. "A survey of uncertainty in deep neural networks." arXiv preprint arXiv:2107.03342 (2021).[[Link]](https://arxiv.org/abs/2107.03342)
+
 * Zhou, Xinlei, et al. "A Survey on Epistemic (Model) Uncertainty in Supervised Learning: Recent Advances and Applications." Neurocomputing (2021).[[Link]](https://doi.org/10.1016/j.neucom.2021.10.119)
+
 * E. Hu ̈llermeier and W. Waegeman, “Aleatoric and epistemic uncertainty in machine learning: An introduction to concepts and methods,” Machine Learning, vol. 110, no. 3, pp. 457–506, 2021. [[Link]](https://arxiv.org/abs/1910.09457)
  
 * Abdar, Moloud, et al. "A review of uncertainty quantification in deep learning: Techniques, applications and challenges." Information Fusion (2021).[[Link]](https://doi.org/10.1016/j.inffus.2021.05.008)
