@@ -7,7 +7,7 @@ This repo contains research papers on predictive uncertainty, quantification met
 I have collected papers from the following international conferences: ICML, NeurIPS, AAAI, ICLR, IUI, CHI
 
 Keywords: 
-`Data(Aleatoric) Uncertainty`, `Model(Epistemic) Uncertainty`, `Bayesain Neural Networks`, `Deep Ensembles`, `Uncertainty Visualization`, `Human-centered computing`, `Human-AI-Interaction`, `interpretability`, `XAI`
+`Data(Aleatoric) Uncertainty`, `Model(Epistemic) Uncertainty`, `Bayesain Neural Networks`, `Deep Ensembles`, `Uncertainty Visualization`, `Human-AI-Interaction`, `interpretability`, `XAI`
 
 
 # Survey
@@ -45,7 +45,7 @@ Keywords:
 
 * Izmailov, Pavel, et al. "What are Bayesian neural network posteriors really like?." International Conference on Machine Learning. PMLR, 2021. [[Link]](https://arxiv.org/abs/2104.14421)
 
-Fortuin, Vincent. "Priors in bayesian deep learning: A review." arXiv preprint arXiv:2105.06868 (2021).[[Link]](https://arxiv.org/abs/2105.06868)
+* Fortuin, Vincent. "Priors in bayesian deep learning: A review." arXiv preprint arXiv:2105.06868 (2021).[[Link]](https://arxiv.org/abs/2105.06868)
 
 ### Test-time augmentation
 * Ashukha, Arsenii, et al. "Pitfalls of in-domain uncertainty estimation and ensembling in deep learning." arXiv preprint arXiv:2002.06470 (2020).[[Link]](https://arxiv.org/pdf/2002.06470) 
@@ -78,13 +78,13 @@ Fortuin, Vincent. "Priors in bayesian deep learning: A review." arXiv preprint a
 * Xiao, Yijun, and William Yang Wang. "On hallucination and predictive uncertainty in conditional language generation." arXiv preprint arXiv:2103.15025 (2021).[[Link]](https://arxiv.org/pdf/2103.15025)
 
 ### Node classification, Link prediction
-Pal, Soumyasundar, et al. "Non parametric graph learning for Bayesian graph neural networks." Conference on uncertainty in artificial intelligence. PMLR, 2020.[[Link]](https://arxiv.org/abs/2006.13335)
+* Pal, Soumyasundar, et al. "Non parametric graph learning for Bayesian graph neural networks." Conference on uncertainty in artificial intelligence. PMLR, 2020.[[Link]](https://arxiv.org/abs/2006.13335)
 
 ### Multiple instance learning
-Pal, Soumyasundar, et al. "Bag Graph: Multiple Instance Learning using Bayesian Graph Neural Networks." Proc. AAAI Conf. on Artificial Intelligence. 2022.[[Link]](https://www.aaai.org/AAAI22Papers/AAAI-8577.PalS.pdf)
+* Pal, Soumyasundar, et al. "Bag Graph: Multiple Instance Learning using Bayesian Graph Neural Networks." Proc. AAAI Conf. on Artificial Intelligence. 2022.[[Link]](https://www.aaai.org/AAAI22Papers/AAAI-8577.PalS.pdf)
 
 ### Time series imputation
-Fortuin, Vincent, et al. "Gp-vae: Deep probabilistic time series imputation." International conference on artificial intelligence and statistics. PMLR, 2020.[[Link]](https://proceedings.mlr.press/v108/fortuin20a.html)
+* Fortuin, Vincent, et al. "Gp-vae: Deep probabilistic time series imputation." International conference on artificial intelligence and statistics. PMLR, 2020.[[Link]](https://proceedings.mlr.press/v108/fortuin20a.html)
 
 ### Safty reinforcement learning
 * Sedlmeier, Andreas, et al. "Uncertainty-based out-of-distribution classification in deep reinforcement learning." arXiv preprint arXiv:2001.00496 (2019).[[Link]](https://arxiv.org/pdf/2001.00496)
