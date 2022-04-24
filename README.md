@@ -74,7 +74,13 @@ Keywords:
 
 ### Natural language generation 
 * Xiao, Yijun, and William Yang Wang. "On hallucination and predictive uncertainty in conditional language generation." arXiv preprint arXiv:2103.15025 (2021).[[Link]](https://arxiv.org/pdf/2103.15025)
- 
+
+### Node classification, Link prediction
+Pal, Soumyasundar, et al. "Non parametric graph learning for Bayesian graph neural networks." Conference on uncertainty in artificial intelligence. PMLR, 2020.[[Link]](https://arxiv.org/abs/2006.13335)
+
+### Multiple Instance Learning
+Pal, Soumyasundar, et al. "Bag Graph: Multiple Instance Learning using Bayesian Graph Neural Networks." Proc. AAAI Conf. on Artificial Intelligence. 2022.[[Link]](https://www.aaai.org/AAAI22Papers/AAAI-8577.PalS.pdf)
+
 ### Safty reinforcement learning
 * Sedlmeier, Andreas, et al. "Uncertainty-based out-of-distribution classification in deep reinforcement learning." arXiv preprint arXiv:2001.00496 (2019).[[Link]](https://arxiv.org/pdf/2001.00496)
 
