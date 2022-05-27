@@ -27,13 +27,12 @@ Keywords:
 
 * A. Malinin and M. Gales, “Predictive uncertainty estimation via prior networks,” in Advances in Neural Information Processing Systems, 2018, pp. 7047–7058.[[Link]](https://proceedings.neurips.cc/paper/2018/file/3ea2db50e62ceefceaf70a9d9a56a6f4-Paper.pdf)
 
-* Ramalho, Tiago, and Miguel Miranda. "Density estimation in representation space to predict model uncertainty." International Workshop on Engineering Dependable and Secure Machine Learning Systems. Springer, Cham, 2020. [[Link]](https://arxiv.org/pdf/1908.07235)
+* Liu, Jeremiah Zhe, et al. "A Simple Approach to Improve Single-Model Deep Uncertainty via Distance-Awareness." arXiv preprint arXiv:2205.00403 (2022). [[Link]](https://arxiv.org/pdf/2205.00403.pdf)
 
 * Sensoy, Murat, Lance Kaplan, and Melih Kandemir. "Evidential deep learning to quantify classification uncertainty." Advances in Neural Information Processing Systems 31 (2018).[[Link]](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
 
 ### Ensembles
 * Lakshminarayanan, Balaji, Alexander Pritzel, and Charles Blundell. "Simple and scalable predictive uncertainty estimation using deep ensembles." Advances in neural information processing systems 30 (2017).[[Link]](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)
-
 
 * Valdenegro-Toro, Matias. "Deep sub-ensembles for fast uncertainty estimation in image classification." arXiv preprint arXiv:1910.08168 (2019). [[Link]](https://arxiv.org/pdf/1910.08168)
 
@@ -88,6 +87,9 @@ Keywords:
 
 ### Safty reinforcement learning
 * Sedlmeier, Andreas, et al. "Uncertainty-based out-of-distribution classification in deep reinforcement learning." arXiv preprint arXiv:2001.00496 (2019).[[Link]](https://arxiv.org/pdf/2001.00496)
+
+### Knowledge Distillation
+* Ferianc, Martin, and Miguel Rodrigues. "Simple Regularisation for Uncertainty-Aware Knowledge Distillation." arXiv preprint arXiv:2205.09526 (2022).[[Link]](https://arxiv.org/pdf/2205.09526.pdf)
 
 ### XAI
 * Antorán, Javier, et al. "Getting a clue: A method for explaining uncertainty estimates." arXiv preprint arXiv:2006.06848 (2020). [[Link]](https://arxiv.org/abs/2006.06848)
