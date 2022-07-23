@@ -55,8 +55,10 @@ Keywords:
 * Postels, Janis, et al. "The hidden uncertainty in a neural networks activations." arXiv preprint arXiv:2012.03082 (2020).[[Link]](https://arxiv.org/pdf/2012.03082)
 
 # Applications
-### Healtcare semantic segmentation
+### Healtcare
 * Nair, Tanya, et al. "Exploring uncertainty measures in deep networks for multiple sclerosis lesion detection and segmentation." Medical image analysis 59 (2020): 101557. [[Link]](https://www.sciencedirect.com/science/article/pii/S1361841519300994?casa_token=xkmmdBQmXdgAAAAA:rDYDtqJ3WI7EXwAFXZWsVezsmi7vll8nYTVnw3pGNs2aEoUFIKuBjCVi5D7evvSaNdMxaLMDuQ)
+
+* Dusenberry, Michael W., et al. "Analyzing the role of model uncertainty for electronic health records." Proceedings of the ACM Conference on Health, Inference, and Learning. 2020.[[Link]](https://dl.acm.org/doi/pdf/10.1145/3368555.3384457)
 
 ### Self-driving cars semantic segmentation
 * Kendall, Alex, Vijay Badrinarayanan, and Roberto Cipolla. "Bayesian segnet: Model uncertainty in deep convolutional encoder-decoder architectures for scene understanding." arXiv preprint arXiv:1511.02680 (2015).[[Link]](https://arxiv.org/pdf/1511.02680.pdf?source=post_page---------------------------)
@@ -70,9 +72,12 @@ Keywords:
 ### Satellite image classification
 * Gawlikowski, Jakob, et al. "Out-of-distribution detection in satellite image classification." arXiv preprint arXiv:2104.05442 (2021). [[Link]](https://arxiv.org/pdf/2104.05442)
 
+### Foundation Model
+* Tran, Dustin, et al. "Plex: Towards Reliability using Pretrained Large Model Extensions." arXiv preprint arXiv:2207.07411 (2022).[[Link]]
 ### Dataset shift detection
 * Ovadia, Yaniv, et al. "Can you trust your model's uncertainty? evaluating predictive uncertainty under dataset shift." Advances in neural information processing systems 32 (2019). [[Link]](https://proceedings.neurips.cc/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf)
 
+* Postels, Janis, et al. "On the practicality of deterministic epistemic uncertainty." arXiv preprint arXiv:2107.00649 (2021).[[Link]](https://arxiv.org/pdf/2107.00649.pdf)
 ### Natural language generation 
 * Xiao, Yijun, and William Yang Wang. "On hallucination and predictive uncertainty in conditional language generation." arXiv preprint arXiv:2103.15025 (2021).[[Link]](https://arxiv.org/pdf/2103.15025)
 
@@ -113,6 +118,8 @@ Keywords:
 
 * D'souza, Daniel, et al. "A Tale Of Two Long Tails." arXiv preprint arXiv:2107.13098 (2021).[[Link]](https://arxiv.org/pdf/2107.13098.pdf)
 # User Study
+### Human collaboration 
+* Kivlichan, Ian D., et al. "Measuring and improving model-moderator collaboration using uncertainty estimation." arXiv preprint arXiv:2107.04212 (2021).[[Link]](https://arxiv.org/pdf/2107.04212.pdf)
 
 ### Uncertainty visualization
 * Téo Sanchez, Baptiste Caramiaux, Pierre Thiel, Wendy E. Mackay. "Deep Learning Uncertainty in Machine Teaching." 27th Annual Conference on Intelligent User Interfaces, Mar 2022 [[Link]](https://hal.archives-ouvertes.fr/hal-03579448/document)
@@ -127,3 +134,8 @@ Keywords:
 * Yunfeng Zhang, Q. Vera Liao, and Rachel K. E. Bellamy."Effect of confidence and explanation on accuracy and trust calibration in AI-assisted decision making." In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (FAT* '20).[[Link]](https://arxiv.org/pdf/2001.02114.pdf)
 
 * Matthew Kay, Tara Kola, Jessica R. Hullman, and Sean A. Munson. "When (ish) is My Bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems." In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16).[[Link]](https://idl.cs.washington.edu/files/2016-WhenIsMyBus-CHI.pdf)
+
+
+# Datasets
+### RETINA Benchmark
+* Band, Neil, et al. "Benchmarking bayesian deep learning on diabetic retinopathy detection tasks." NeurIPS 2021 Workshop on Distribution Shifts: Connecting Methods and Applications. 2021.[[Link]](https://openreview.net/pdf?id=uJ2_JTpVCvc)
