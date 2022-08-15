@@ -31,12 +31,12 @@ Keywords:
 
 * Sensoy, Murat, Lance Kaplan, and Melih Kandemir. "Evidential deep learning to quantify classification uncertainty." Advances in Neural Information Processing Systems 31 (2018).[[Link]](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
 
+* Wen, Yeming, Dustin Tran, and Jimmy Ba. "Batchensemble: an alternative approach to efficient ensemble and lifelong learning." arXiv preprint arXiv:2002.06715 (2020).[[Link]](https://arxiv.org/pdf/2002.06715) 
+
 ### Ensembles
 * Lakshminarayanan, Balaji, Alexander Pritzel, and Charles Blundell. "Simple and scalable predictive uncertainty estimation using deep ensembles." Advances in neural information processing systems 30 (2017).[[Link]](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)
 
 * Valdenegro-Toro, Matias. "Deep sub-ensembles for fast uncertainty estimation in image classification." arXiv preprint arXiv:1910.08168 (2019). [[Link]](https://arxiv.org/pdf/1910.08168)
-
-* Wen, Yeming, Dustin Tran, and Jimmy Ba. "Batchensemble: an alternative approach to efficient ensemble and lifelong learning." arXiv preprint arXiv:2002.06715 (2020).[[Link]](https://arxiv.org/pdf/2002.06715) 
 
 ### Bayesian methods
 * Jospin, Laurent Valentin, et al. "Hands-on Bayesian neural networks--a tutorial for deep learning users." arXiv preprint arXiv:2007.06823 (2020). [[Link]](https://arxiv.org/abs/2007.06823)
@@ -73,14 +73,29 @@ Keywords:
 * Gawlikowski, Jakob, et al. "Out-of-distribution detection in satellite image classification." arXiv preprint arXiv:2104.05442 (2021). [[Link]](https://arxiv.org/pdf/2104.05442)
 
 ### Foundation Model
-* Tran, Dustin, et al. "Plex: Towards Reliability using Pretrained Large Model Extensions." arXiv preprint arXiv:2207.07411 (2022).[[Link]]
+* Tran, Dustin, et al. "Plex: Towards Reliability using Pretrained Large Model Extensions." arXiv preprint arXiv:2207.07411 (2022).[[Link]](https://arxiv.org/pdf/2207.07411.pdf)
+
 ### Dataset shift detection
 * Ovadia, Yaniv, et al. "Can you trust your model's uncertainty? evaluating predictive uncertainty under dataset shift." Advances in neural information processing systems 32 (2019). [[Link]](https://proceedings.neurips.cc/paper/2019/file/8558cb408c1d76621371888657d2eb1d-Paper.pdf)
 
 * Postels, Janis, et al. "On the practicality of deterministic epistemic uncertainty." arXiv preprint arXiv:2107.00649 (2021).[[Link]](https://arxiv.org/pdf/2107.00649.pdf)
+
+### Computer vision
+* Valdenegro-Toro, M. "I find your lack of uncertainty in computer vision disturbing." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (2021)[[Link]](https://openaccess.thecvf.com/content/CVPR2021W/LXCV/papers/Valdenegro-Toro_I_Find_Your_Lack_of_Uncertainty_in_Computer_Vision_Disturbing_CVPRW_2021_paper.pdf)
+
 ### Natural language generation 
 * Xiao, Yijun, and William Yang Wang. "On hallucination and predictive uncertainty in conditional language generation." arXiv preprint arXiv:2103.15025 (2021).[[Link]](https://arxiv.org/pdf/2103.15025)
 
+### Text Classification
+* J. Van Landeghem, M. Blaschko, B. Anckaert and M. -F. Moens, "Benchmarking Scalable Predictive Uncertainty in Text Classification," in IEEE Access, vol. 10, pp. 43703-43737, (2022)[[Link]](https://ieeexplore.ieee.org/document/9761166)
+
+### Token-level and Sequence-level
+* Jakob Smedegaard Andersen, Tom Schöner, and Walid Maalej. "Word-Level Uncertainty Estimation for Black-Box Text Classifiers using RNNs." In Proceedings of the 28th International Conference on Computational Linguistics, (2020)[[Link]](https://aclanthology.org/2020.coling-main.484/)
+
+### Abstruction
+* Alexios Gidiotis and Grigorios Tsoumakas. 2022. Should We Trust This Summary? Bayesian Abstractive Summarization to The Rescue. In Findings of the Association for Computational Linguistics: ACL (2022) [[Link]](https://aclanthology.org/2022.findings-acl.325/)
+
+* Malinin, Andrey, and Mark Gales. "Uncertainty estimation in autoregressive structured prediction." arXiv preprint arXiv:2002.07650 (2020).[[Link]](https://arxiv.org/pdf/2002.07650.pdf)
 ### Node classification, Link prediction
 * Pal, Soumyasundar, et al. "Non parametric graph learning for Bayesian graph neural networks." Conference on uncertainty in artificial intelligence. PMLR, 2020.[[Link]](https://arxiv.org/abs/2006.13335)
 
@@ -89,6 +104,9 @@ Keywords:
 
 ### Time series imputation
 * Fortuin, Vincent, et al. "Gp-vae: Deep probabilistic time series imputation." International conference on artificial intelligence and statistics. PMLR, 2020.[[Link]](https://proceedings.mlr.press/v108/fortuin20a.html)
+
+### Camouflaged object detection
+* Zhang, Jing, et al. "Dense uncertainty estimation." arXiv preprint arXiv:2110.06427 (2021).[[Link]](https://arxiv.org/pdf/2110.06427.pdf)
 
 ### Safty reinforcement learning
 * Sedlmeier, Andreas, et al. "Uncertainty-based out-of-distribution classification in deep reinforcement learning." arXiv preprint arXiv:2001.00496 (2019).[[Link]](https://arxiv.org/pdf/2001.00496)
@@ -113,10 +131,15 @@ Keywords:
 
 * Minderer, Matthias, et al. "Revisiting the calibration of modern neural networks." Advances in Neural Information Processing Systems 34 (2021).[[Link]](https://proceedings.neurips.cc/paper/2021/file/8420d359404024567b5aefda1231af24-Paper.pdf)
 
+### Heteroscedastic noise
+* Collier, Mark, et al. "Correlated input-dependent label noise in large-scale image classification." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. (2021)[[Link]](https://openaccess.thecvf.com/content/CVPR2021/papers/Collier_Correlated_Input-Dependent_Label_Noise_in_Large-Scale_Image_Classification_CVPR_2021_paper.pdf)
+
 ### Example difficality
 * Baldock, Robert, Hartmut Maennel, and Behnam Neyshabur. "Deep learning through the lens of example difficulty." Advances in Neural Information Processing Systems 34 (2021).[[Link]](https://arxiv.org/pdf/2106.09647.pdf)
 
 * D'souza, Daniel, et al. "A Tale Of Two Long Tails." arXiv preprint arXiv:2107.13098 (2021).[[Link]](https://arxiv.org/pdf/2107.13098.pdf)
+
+* Swayamdipta, Swabha, et al. "Dataset cartography: Mapping and diagnosing datasets with training dynamics." arXiv preprint arXiv:2009.10795 (2020).[[Link]](https://aclanthology.org/2020.emnlp-main.746.pdf)
 # User Study
 ### Human collaboration 
 * Kivlichan, Ian D., et al. "Measuring and improving model-moderator collaboration using uncertainty estimation." arXiv preprint arXiv:2107.04212 (2021).[[Link]](https://arxiv.org/pdf/2107.04212.pdf)
