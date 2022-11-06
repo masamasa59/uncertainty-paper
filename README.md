@@ -117,6 +117,9 @@ Keywords:
 ### XAI
 * Antorán, Javier, et al. "Getting a clue: A method for explaining uncertainty estimates." arXiv preprint arXiv:2006.06848 (2020). [[Link]](https://arxiv.org/abs/2006.06848)
 
+### SHAP
+* Shaikhina, Torgyn, et al. "Effects of Uncertainty on the Quality of Feature Importance Explanations." AAAI Workshop on Explainable Agency in Artificial Intelligence. 2021.[[Link]](https://umangsbhatt.github.io/reports/AAAI_XAI_QB.pdf)
+
 ### Transparency
 * Bhatt, Umang, et al. "Uncertainty as a form of transparency: Measuring, communicating, and using uncertainty." Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society. 2021.[[Link]](https://dl.acm.org/doi/pdf/10.1145/3461702.3462571)
 
